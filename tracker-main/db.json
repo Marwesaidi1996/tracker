@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "id": "9736",
+      "description": "ss",
+      "amount": 30,
+      "category": "food"
+    },
+    {
+      "id": "c95a",
+      "description": "mm",
+      "amount": 55,
+      "category": "entertainment"
+    }
+  ]
+}
